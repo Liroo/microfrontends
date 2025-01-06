@@ -24,7 +24,7 @@ We recommend reading the ["How it works"](#how-it-works) section to understand t
 https://solutions-microfrontends.vercel.app
 
 ## How to use
-e
+
 You can choose from one of the following two methods to use this repository:
 
 ### One-click deploy

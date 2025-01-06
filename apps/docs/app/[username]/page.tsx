@@ -13,7 +13,7 @@ export default function IndexPage() {
       <Text variant="h1" className="mb-6">
         Docs
       </Text>
-      <Text className="mb-4">Docs {username}</Text>
+      <Text className="mb-4">Docss {username}</Text>
       <Text>
         <a
           className="text-link hover:text-link-light transition-colors"
