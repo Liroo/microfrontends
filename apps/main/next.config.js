@@ -8,6 +8,14 @@ const nextConfig = {
        * Rewrites for Multi-Zones
        */
       {
+        source: '/about',
+        destination: `/about`,
+      },
+      {
+        source: '/:path*',
+        destination: `${DOCS_URL}/:path*`,
+      },
+      {
         source: '/docs',
         destination: `${DOCS_URL}/docs`,
       },
